@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+  place-items: center;
+  min-height: 100vh; /* Full viewport height */
+  margin: 0;
+  
+  font-family: Arial, sans-serif;
+}
+
+label{
+    margin: 20px;
+    padding: 10px;
+    width: 90%;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+button#addbutton{
+background-color: blueviolet;
+margin: 25px;
+padding: 20px;
+
+}
+
+button#clearbutton{
+    background-color: chartreuse;
+    margin: 25px;
+    padding: 20px;
+}
+#shoppinglist{
+    margin: 15px;
+    padding: 20px;
+    background-color: cornsilk;
+    width: 90%;
+}
