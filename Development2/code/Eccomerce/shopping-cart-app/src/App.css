@@ -1,0 +1,32 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgb(196, 214, 255);
+  
+.product-list,
+.cart {
+  width: 45%;
+  border: 1px solid #f1f8f9;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgb(211, 158, 227);
+  
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #4c91af;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  justify-content: center;
+
+}
+
+button:hover {
+  background-color: aquamarine;
+}
+}
